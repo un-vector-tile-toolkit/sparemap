@@ -1,1 +1,1 @@
-# spearmap
+# sparemap
